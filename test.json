@@ -1,27 +1,4 @@
-    "weather": "moderate rain"
-  },
-  {
-    "date": "2020-08-18T02:00:00Z",
-    "weather": "light rain"
-  },
-  {
-    "date": "2020-08-19T02:00:00Z",
-    "weather": "broken clouds"
-  },
-  {
-    "date": "2020-08-20T02:00:00Z",
-    "weather": "clear sky"
-  },
-  {
-    "date": "2020-08-21T02:00:00Z",
-    "weather": "clear sky"
-  },
-  {
-    "date": "2020-08-22T02:00:00Z",
-    "weather": "moderate rain"
-  },
-  {
-    "date": "2020-08-23T02:00:00Z",
-    "weather": "moderate rain"
-  }
-]
+日付:Fri Aug 14 2020 09:00:00 GMT+0900 (Japan Standard Time),説明:Apache Struts 2 の脆弱性 (S2-059、S2-060) に関する注意喚起 (公開),URL:https://www.jpcert.or.jp/at/2020/at/2020/at200034.html
+日付:Wed Aug 12 2020 09:00:00 GMT+0900 (Japan Standard Time),説明:2020年8月マイクロソフトセキュリティ更新プログラムに関する注意喚起 (公開),URL:https://www.jpcert.or.jp/at/2020/at/2020/at200033.html
+日付:Wed Aug 12 2020 09:00:00 GMT+0900 (Japan Standard Time),説明:Adobe Acrobat および Reader の脆弱性 (APSB20-48) に関する注意喚起 (公開),URL:https://www.jpcert.or.jp/at/2020/at/2020/at200032.html
+日付:Mon Aug 03 2020 09:00:00 GMT+0900 (Japan Standard Time),説明:SKYSEA Client View の脆弱性 (CVE-2020-5617) に関する注意喚起 (公開),URL:https://www.jpcert.or.jp/at/2020/at/2020/at200031.html
